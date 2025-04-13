@@ -1,5 +1,4 @@
 
-package com.bean;
 public class Main {
     
     public static void main(String[] args) {
